@@ -1,6 +1,6 @@
 ## 📌  ML Linear Regression (учебный проект)
 
-```md
+
 # ML Linear Regression
 
 ## 📌 Описание
